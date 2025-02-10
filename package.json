@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "private": true,
   "license": "MIT",
-  "homepage": "https://codinglikeangel.github.io/MicroFronts/",
+  "homepage": "https://codinglikeangel.github.io/",
   "scripts": {
     "predeploy": "nx build",
     "deploy": "gh-pages -d dist/my-react-app -r https://github.com/CodingLikeAngel/MicroFronts",
