@@ -6,7 +6,7 @@
   "homepage": "https://codinglikeangel.github.io/MicroFronts/",
   "scripts": {
     "predeploy": "nx build",
-    "deploy": "gh-pages -d dist/my-react-app  -r https://github.com/CodingLikeAngel/MicroFronts",
+    "deploy": "gh-pages -d dist/my-react-app -r https://github.com/CodingLikeAngel/MicroFronts",
     "start": "nx serve",
     "build": "nx build",
     "test": "nx test"
